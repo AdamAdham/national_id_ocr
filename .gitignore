@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+artifacts/*
+test_output.json
+app/test_ids/*
