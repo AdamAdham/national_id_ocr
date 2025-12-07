@@ -60,7 +60,7 @@
 
 - **YOLO Object Detection** – Trained for Egyptian ID card detection.
 - **EasyOCR** – Used for high-accuracy text recognition in Arabic.
-- **Tesseract** – Used for high-accuracy text recognition in Arabic for First Name (EasyOCR performs badly on short strings).
+- **Tesseract** – Used for high-accuracy text recognition in Arabic.
 
 # Packages tried
 - **EasyOCR** – Used for high-accuracy text recognition in Arabic.
